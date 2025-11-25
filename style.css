@@ -138,8 +138,7 @@ html body {
   position: relative;
   overflow: hidden;
   width: 100%;
-  height: 950px;
-  top: 30px;
+  height: 100vh;
   z-index: -10;
 }
 
